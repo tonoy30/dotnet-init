@@ -1,0 +1,7 @@
+# .NET Core build folders
+/bin
+/obj
+
+# IDEs
+.idea
+.vscode
